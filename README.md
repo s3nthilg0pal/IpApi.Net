@@ -1,6 +1,6 @@
 # IpApi.Net
 
-IpApi.Net is a .NET wrapper for IPApi, making it easy to query IP-related information in your .NET projects.
+IpApi.Net is a .NET wrapper for IPQuery IP API, making it easy to query IP-related information in your .NET projects.
 
 ## Installation
 
