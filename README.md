@@ -4,10 +4,10 @@ IpApi.Net is a .NET wrapper for IPApi, making it easy to query IP-related inform
 
 ## Installation
 
-To get started, install the IpApi.Net NuGet package:
+To get started, install the IpApi NuGet package:
 
 ```bash
-Install-Package IpApi.Net
+dotnet add package IpApi
 ```
 
 ## Usage
