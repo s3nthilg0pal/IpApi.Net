@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpApi", "IpApi\IpApi.csproj", "{2DA3FB8F-C9AC-4597-AEFC-C0BD75E87B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpApi.Net.Sample.Console", "IpApi.Net.Sample.Console\IpApi.Net.Sample.Console.csproj", "{5EB20BE2-F56E-4ABF-9F2F-958FB7AFA579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA3FB8F-C9AC-4597-AEFC-C0BD75E87B31}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA3FB8F-C9AC-4597-AEFC-C0BD75E87B31}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2DA3FB8F-C9AC-4597-AEFC-C0BD75E87B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA3FB8F-C9AC-4597-AEFC-C0BD75E87B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB20BE2-F56E-4ABF-9F2F-958FB7AFA579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB20BE2-F56E-4ABF-9F2F-958FB7AFA579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB20BE2-F56E-4ABF-9F2F-958FB7AFA579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
